@@ -1,8 +1,6 @@
 https://bulat-01.github.io/Setting-Personal-Account/
 
-https://bulat-01.github.io/blog/
-
-• Проект сделан на нативе: HTML, CSS, JS.
+• Проект сделан на нативе: HTML, CSS.
 
 • Семантическая вертска.
 
